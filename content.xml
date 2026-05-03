@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026050322383346SH6Z</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605032238338Y1I91</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>🏘️ CONOCIENDO NUESTRO BARRIO 🏢✨</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de Aprendizaje (SDA)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Pilar del Río</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este recurso educativo es una Situación de Aprendizaje diseñada para alumnos de 5º de Educación Primaria. El objetivo es investigar los comercios locales mediante el uso de herramientas digitales y técnicas de entrevista.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777839544497</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777828882598-gvynha87j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777828882598-gvynha87j</odePageId>
+      <odeBlockId>block-1777829049194-mvd07nigt</odeBlockId>
+      <blockName>¡Hola a todos! 👋✨</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777828882598-gvynha87j</odePageId>
+          <odeBlockId>block-1777829049194-mvd07nigt</odeBlockId>
+          <odeIdeviceId>idevice-1777829049187-z8gr7owto</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Para este proyecto no vamos a usar el método tradicional de "libro y examen". Vamos a trabajar mediante una Situación de Aprendizaje (SDA). Pero, ¿qué significa esto para vosotros?</p>
+<ul>
+<li>Analizaremos qué tiendas y servicios hay en nuestro barrio.</li>
+<li>Saldremos a la calle para hablar con los trabajadores. Ellos son los expertos y nos contarán cómo es su día a día.</li>
+<li>Organizaremos toda esa información usando herramientas tecnológicas para contarle al resto de la clase lo que hemos descubierto.</li>
+<li>El objetivo final: Conocer mejor nuestra comunidad y demostrar que el aprendizaje está en todas partes, no solo dentro del aula. ¡A POR ELLO!</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777829049187-z8gr7owto","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Para este proyecto no vamos a usar el método tradicional de \"libro y examen\". Vamos a trabajar mediante una Situación de Aprendizaje (SDA). Pero, ¿qué significa esto para vosotros?</p>\n<ul>\n<li>Analizaremos qué tiendas y servicios hay en nuestro barrio.</li>\n<li>Saldremos a la calle para hablar con los trabajadores. Ellos son los expertos y nos contarán cómo es su día a día.</li>\n<li>Organizaremos toda esa información usando herramientas tecnológicas para contarle al resto de la clase lo que hemos descubierto.</li>\n<li>El objetivo final: Conocer mejor nuestra comunidad y demostrar que el aprendizaje está en todas partes, no solo dentro del aula. ¡A POR ELLO!</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777829767543-0s4369vds</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Licencias y seguridad</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencias y seguridad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777829767543-0s4369vds</odePageId>
+      <odeBlockId>block-1777829934621-c1dozlav7</odeBlockId>
+      <blockName>¡IMPORTANTE! Antes de salir a la calle...</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777829767543-0s4369vds</odePageId>
+          <odeBlockId>block-1777829934621-c1dozlav7</odeBlockId>
+          <odeIdeviceId>idevice-1777829934615-rqs0zym4q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hola chicos, os dejo un enlace con toda la información sobre las licencias y seguridad que debéis saber antes de empezar el proyecto: <a href="https://www.canva.com/design/DAHD2ts78_E/JNkrIXUc7oTkv-WWczvD4g/edit" target="_blank" title="" rel="noopener">[AQUÍ TU ENLACE]</a></p>
+<p>¡Ojo con las cámaras! 📸 Antes de grabar o hacer fotos a los trabajadores, tenéis que pedirles permiso siempre. Si os dicen que no quieren salir en el vídeo, podéis grabar solo sus manos trabajando o simplemente usar su voz (con su permiso también).</p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777829934615-rqs0zym4q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hola chicos, os dejo un enlace con toda la información sobre las licencias y seguridad que debéis saber antes de empezar el proyecto: <a href=\"https://www.canva.com/design/DAHD2ts78_E/JNkrIXUc7oTkv-WWczvD4g/edit\" target=\"_blank\" title=\"\" rel=\"noopener\">[AQUÍ TU ENLACE]</a></p>\n<p>¡Ojo con las cámaras! 📸 Antes de grabar o hacer fotos a los trabajadores, tenéis que pedirles permiso siempre. Si os dicen que no quieren salir en el vídeo, podéis grabar solo sus manos trabajando o simplemente usar su voz (con su permiso también).</p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777830431493-gqy4w8re1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777830431493-gqy4w8re1</odePageId>
+      <odeBlockId>block-1777830433712-ayj7xoncy</odeBlockId>
+      <blockName>🚀 ¡Arrancamos nuestro Proyecto! Guía de Herramientas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777830431493-gqy4w8re1</odePageId>
+          <odeBlockId>block-1777830433712-ayj7xoncy</odeBlockId>
+          <odeIdeviceId>idevice-1777830433709-wvgnqbsvb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">¡Hola a todos! Para este proyecto sobre los comercios del barrio, vamos a convertirnos en expertos digitales. No os preocupéis por nada, porque aquí tenéis la hoja de ruta con las herramientas que vamos a usar:</p>
+<p style="text-align: justify;"><strong>1. 🎮 El Calentamiento: Kahoot</strong><br />Empezaremos con un Kahoot en clase. No es un examen, es un juego para ver cuánto sabemos sobre nuestro barrio antes de empezar. ¡Daremos el pistoletazo de salida divirtiéndonos!</p>
+<p><strong>2. 💻 Vuestro equipo de trabajo</strong><br />¿Y si no tengo tablet o portátil? ¡No pasa nada! El cole os prestará uno para que todos estéis en igualdad de condiciones.<br />Vuestra cuenta mágica: Usaréis vuestro correo de la escuela. Con él, todo se guarda solo en "la nube" (Drive), así que nunca perderéis nada y podréis trabajar a la vez con vuestro compañero desde ordenadores distintos.</p>
+<p><br /><strong>3. 📝 El Cuaderno de Investigación: Google Classroom y Docs</strong><br /><strong>- Classroom:</strong> Será nuestro cuartel general. Allí os pondré los retos y las tareas. Además, podréis mirar el Google Calendar para que no se os pase ninguna fecha importante.<br /><strong>- Documentos de Google: </strong>Aquí trabajaréis en pareja. Es genial porque mientras uno escribe, el otro puede ir añadiendo fotos. Yo entraré a veces para dejaros "comentarios burbuja" y ayudaros a que vuestro trabajo quede perfecto.</p>
+<p><br /><strong>4. 🎨 ¡El Gran Final con Canva!</strong><br />Para que vuestra presentación sea de otro planeta, usaremos Canva. Podréis elegir plantillas alucinantes, ponerle iconos, colores y vuestras fotos de las entrevistas para que los comercios del barrio luzcan como nunca.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777830433709-wvgnqbsvb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">¡Hola a todos! Para este proyecto sobre los comercios del barrio, vamos a convertirnos en expertos digitales. No os preocupéis por nada, porque aquí tenéis la hoja de ruta con las herramientas que vamos a usar:</p>\n<p style=\"text-align: justify;\"><strong>1. 🎮 El Calentamiento: Kahoot</strong><br />Empezaremos con un Kahoot en clase. No es un examen, es un juego para ver cuánto sabemos sobre nuestro barrio antes de empezar. ¡Daremos el pistoletazo de salida divirtiéndonos!</p>\n<p><strong>2. 💻 Vuestro equipo de trabajo</strong><br />¿Y si no tengo tablet o portátil? ¡No pasa nada! El cole os prestará uno para que todos estéis en igualdad de condiciones.<br />Vuestra cuenta mágica: Usaréis vuestro correo de la escuela. Con él, todo se guarda solo en \"la nube\" (Drive), así que nunca perderéis nada y podréis trabajar a la vez con vuestro compañero desde ordenadores distintos.</p>\n<p><br /><strong>3. 📝 El Cuaderno de Investigación: Google Classroom y Docs</strong><br /><strong>- Classroom:</strong> Será nuestro cuartel general. Allí os pondré los retos y las tareas. Además, podréis mirar el Google Calendar para que no se os pase ninguna fecha importante.<br /><strong>- Documentos de Google: </strong>Aquí trabajaréis en pareja. Es genial porque mientras uno escribe, el otro puede ir añadiendo fotos. Yo entraré a veces para dejaros \"comentarios burbuja\" y ayudaros a que vuestro trabajo quede perfecto.</p>\n<p><br /><strong>4. 🎨 ¡El Gran Final con Canva!</strong><br />Para que vuestra presentación sea de otro planeta, usaremos Canva. Podréis elegir plantillas alucinantes, ponerle iconos, colores y vuestras fotos de las entrevistas para que los comercios del barrio luzcan como nunca.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777830995831-h0zzlzu1e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🗺️ ¡Nuestros Mapas de Misión! 📍</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🗺️ ¡Nuestros Mapas de Misión! 📍</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777830995831-h0zzlzu1e</odePageId>
+      <odeBlockId>block-1777830998650-9j1s0rwey</odeBlockId>
+      <blockName>¡Guardad estos enlaces!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777830995831-h0zzlzu1e</odePageId>
+          <odeBlockId>block-1777830998650-9j1s0rwey</odeBlockId>
+          <odeIdeviceId>idevice-1777830998647-e7q9nyuwp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para que no os perdáis en ningún momento de la aventura, hemos creado dos sitios especiales donde tenéis TODO lo necesario a un solo clic ✅ </p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777830998647-e7q9nyuwp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para que no os perdáis en ningún momento de la aventura, hemos creado dos sitios especiales donde tenéis TODO lo necesario a un solo clic ✅ </p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777831537107-batbr9c4s</odePageId>
+  <odeParentPageId>page-1777830995831-h0zzlzu1e</odeParentPageId>
+  <pageName>PARTE 1</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PARTE 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777831537107-batbr9c4s</odePageId>
+      <odeBlockId>block-1777831545284-xc6ciby5c</odeBlockId>
+      <blockName>Vuestro Panel de Control (Symbaloo)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777831537107-batbr9c4s</odePageId>
+          <odeBlockId>block-1777831545284-xc6ciby5c</odeBlockId>
+          <odeIdeviceId>idevice-1777831545283-9y67cbyt4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vuestro Panel de Control (Symbaloo)<br />Aquí tenéis todos los botones mágicos. En este tablero encontraréis los accesos directos a las herramientas, las webs de consulta y los recursos que usaremos cada día. 👉 <a href="https://www.symbaloo.com/shared/AAAABF7hUpUAA41_l11zZw==" target="_blank" rel="noopener" title="">Entrad aquí</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777831545283-9y67cbyt4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vuestro Panel de Control (Symbaloo)<br />Aquí tenéis todos los botones mágicos. En este tablero encontraréis los accesos directos a las herramientas, las webs de consulta y los recursos que usaremos cada día. 👉 <a href=\"https://www.symbaloo.com/shared/AAAABF7hUpUAA41_l11zZw==\" target=\"_blank\" rel=\"noopener\" title=\"\">Entrad aquí</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777831567791-33a41cuxy</odePageId>
+  <odeParentPageId>page-1777830995831-h0zzlzu1e</odeParentPageId>
+  <pageName>PARTE 2</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PARTE 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777831567791-33a41cuxy</odePageId>
+      <odeBlockId>block-1777831574981-1o0sn6n2t</odeBlockId>
+      <blockName>El Muro del Proyecto (Wakelet)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777831567791-33a41cuxy</odePageId>
+          <odeBlockId>block-1777831574981-1o0sn6n2t</odeBlockId>
+          <odeIdeviceId>idevice-1777831574979-jjjad6j2n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este es nuestro diario de ruta. Aquí veréis de forma organizada todas las actividades, las tareas y la línea temporal ⏳. Es como un muro de noticias donde podéis ver qué toca hacer hoy y qué haremos mañana. 👉 <a href="https://wakelet.com/wake/pLfvOpnyygigsuldaSu9g" target="_blank" title="" rel="noopener">Entrad aquí</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777831574979-jjjad6j2n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este es nuestro diario de ruta. Aquí veréis de forma organizada todas las actividades, las tareas y la línea temporal ⏳. Es como un muro de noticias donde podéis ver qué toca hacer hoy y qué haremos mañana. 👉 <a href=\"https://wakelet.com/wake/pLfvOpnyygigsuldaSu9g\" target=\"_blank\" title=\"\" rel=\"noopener\">Entrad aquí</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777831908836-8fstf7cbs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Linea temporal</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Linea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Linea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777831908836-8fstf7cbs</odePageId>
+      <odeBlockId>block-1777831911571-x5koc5gk</odeBlockId>
+      <blockName>🗺️ ¡Vuestra Hoja de Ruta: El Mapa de la Misión! 🚀</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777831908836-8fstf7cbs</odePageId>
+          <odeBlockId>block-1777831911571-x5koc5gk</odeBlockId>
+          <odeIdeviceId>idevice-1777831911568-52pz8m8ro</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Hola, equipo de investigadores! Para que sepáis en qué punto de la aventura estamos y qué nos toca hacer en cada momento, hemos preparado esta Línea Temporal.</p>
+<p>Es vuestra guía para no perderos. Podéis verla aquí: 👉 <a href="https://www.canva.com/design/DAHHBig0YeM/GRYA4spZ5pAcoSGUDwUM8Q/edit" target="_blank" title="" rel="noopener">[VER MI MAPA]</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777831911568-52pz8m8ro","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Hola, equipo de investigadores! Para que sepáis en qué punto de la aventura estamos y qué nos toca hacer en cada momento, hemos preparado esta Línea Temporal.</p>\n<p>Es vuestra guía para no perderos. Podéis verla aquí: 👉 <a href=\"https://www.canva.com/design/DAHHBig0YeM/GRYA4spZ5pAcoSGUDwUM8Q/edit\" target=\"_blank\" title=\"\" rel=\"noopener\">[VER MI MAPA]</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777832372285-15xa1hv68</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Logros</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Logros</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Logros</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777832372285-15xa1hv68</odePageId>
+      <odeBlockId>block-1777832487796-qql21pdj1</odeBlockId>
+      <blockName>🏆 ¿Cómo ser un Investigador de 10?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777832372285-15xa1hv68</odePageId>
+          <odeBlockId>block-1777832487796-qql21pdj1</odeBlockId>
+          <odeIdeviceId>idevice-1777832487784-obbpxztjc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Chicos, en este documento están las "reglas del juego". Para que vuestro trabajo sea excelente, fijaos en estos 3 puntos clave que el profe va a tener muy en cuenta:</p>
+<p><strong>1. 🎤 La Entrevista Perfecta</strong><br />¿Qué hay que hacer? Preparar bien las preguntas antes de salir. No vale solo con preguntar el nombre, ¡queremos saber los secretos del negocio!<br /><em>El truco: Escuchad con atención lo que os cuentan y sed muy educados con los trabajadores del barrio.🤝</em><br /><strong>2. 💻 Expertos en Tecnología</strong><br />- En Google Docs: No solo es escribir, es trabajar en equipo. Se nota cuando los dos habéis participado y cuando el documento está ordenado y sin faltas.<br />- En Canva: ¡Dadle vida! Usad fotos vuestras, colores que peguen y que la información sea fácil de leer. 🎨<br /><strong>3. 🗣️ ¡A escena! La Presentación</strong><br />No se trata de leer lo que pone en la pantalla. Tenéis que contar vuestra experiencia como si fuerais reporteros de la tele. 📺<br /><em>Puntos extra: Si usáis un tono de voz claro y respondéis bien a las preguntas de vuestros compañeros.</em><br /> <br /><strong>📝 Vuestro Checklist de Evaluación 📑</strong><br />Antes de entregar el trabajo en Classroom, revisad esto:</p>
+<p style="text-align: justify;">- ¿Hemos usado la cuenta de Google del cole? 📧<br />- ¿Están todas las tareas hechas en el orden de la agenda? ⏳<br />- ¿Hemos respetado las normas de seguridad y fotos? 📸<br />- ¿Nuestro diseño en Canva es original y divertido? ✨<br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777832487784-obbpxztjc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Chicos, en este documento están las \"reglas del juego\". Para que vuestro trabajo sea excelente, fijaos en estos 3 puntos clave que el profe va a tener muy en cuenta:</p>\n<p><strong>1. 🎤 La Entrevista Perfecta</strong><br />¿Qué hay que hacer? Preparar bien las preguntas antes de salir. No vale solo con preguntar el nombre, ¡queremos saber los secretos del negocio!<br /><em>El truco: Escuchad con atención lo que os cuentan y sed muy educados con los trabajadores del barrio.🤝</em><br /><strong>2. 💻 Expertos en Tecnología</strong><br />- En Google Docs: No solo es escribir, es trabajar en equipo. Se nota cuando los dos habéis participado y cuando el documento está ordenado y sin faltas.<br />- En Canva: ¡Dadle vida! Usad fotos vuestras, colores que peguen y que la información sea fácil de leer. 🎨<br /><strong>3. 🗣️ ¡A escena! La Presentación</strong><br />No se trata de leer lo que pone en la pantalla. Tenéis que contar vuestra experiencia como si fuerais reporteros de la tele. 📺<br /><em>Puntos extra: Si usáis un tono de voz claro y respondéis bien a las preguntas de vuestros compañeros.</em><br /> <br /><strong>📝 Vuestro Checklist de Evaluación 📑</strong><br />Antes de entregar el trabajo en Classroom, revisad esto:</p>\n<p style=\"text-align: justify;\">- ¿Hemos usado la cuenta de Google del cole? 📧<br />- ¿Están todas las tareas hechas en el orden de la agenda? ⏳<br />- ¿Hemos respetado las normas de seguridad y fotos? 📸<br />- ¿Nuestro diseño en Canva es original y divertido? ✨<br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777834101278-26ao6m1rc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🎯 Nuestra Diana de Aprendizaje</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎯 Nuestra Diana de Aprendizaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777834101278-26ao6m1rc</odePageId>
+      <odeBlockId>block-1777834370079-35vrcjpzm</odeBlockId>
+      <blockName>¡Apunta a tu éxito!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777834101278-26ao6m1rc</odePageId>
+          <odeBlockId>block-1777834370079-35vrcjpzm</odeBlockId>
+          <odeIdeviceId>idevice-1777834370076-t8udk6m0p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Chicos, para saber cuánto habéis aprendido en este proyecto. Vamos a usar una Diana de Evaluación.</p>
+<p style="text-align: justify;">❓ ¿Qué es esto?<br />Imaginad una diana de dardos. Cada "quesito" o parte de la diana es un superpoder que habéis entrenado:</p>
+<p style="text-align: justify;">-Investigación: ¿He descubierto cosas chulas del barrio? 🔍<br />-ecnología: ¿Sé usar Canva y Google Docs? 💻<br />-Equipo: ¿He ayudado a mi compañero? 🤝<br />-Comunicación: ¿He hecho buenas entrevistas? 🎤</p>
+<p style="text-align: justify;"><br />🎨 ¿Cómo se rellena? (El Código de Colores)<br />Vosotros mismos marcaréis vuestro camino. Pintaremos la diana desde el centro hacia fuera:</p>
+<p style="text-align: justify;">🔴 Color Rojo (Centro): "Me ha costado un poco, necesito practicar más".<br />🟠 Color Naranja (Mitad): "¡Lo voy pillando! Ya me sale bastante bien".<br />🟢 Color Verde (Borde exterior): "¡Soy un experto! Puedo ayudar a otros".</p>
+<p style="text-align: justify;"><br />✅ Pasos para completar tu misión:<br />-Sé sincero: No pasa nada por poner un rojo si algo te ha costado. ¡Estamos aquí para aprender!<br />-Mira tu proceso: Piensa en cómo empezaste el primer día y cómo estás ahora.<br />-¡Dale color!: Que tu diana refleje todo tu trabajo.<br /></p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/Ficha de Ejercicio Diana de Autoevaluación Alumno Doodle Blanco y Negro.png" title="Diana de evaluación" width="983" height="695" alt="Diana de evaluación" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777834370076-t8udk6m0p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Chicos, para saber cuánto habéis aprendido en este proyecto. Vamos a usar una Diana de Evaluación.</p>\n<p style=\"text-align: justify;\">❓ ¿Qué es esto?<br />Imaginad una diana de dardos. Cada \"quesito\" o parte de la diana es un superpoder que habéis entrenado:</p>\n<p style=\"text-align: justify;\">-Investigación: ¿He descubierto cosas chulas del barrio? 🔍<br />-ecnología: ¿Sé usar Canva y Google Docs? 💻<br />-Equipo: ¿He ayudado a mi compañero? 🤝<br />-Comunicación: ¿He hecho buenas entrevistas? 🎤</p>\n<p style=\"text-align: justify;\"><br />🎨 ¿Cómo se rellena? (El Código de Colores)<br />Vosotros mismos marcaréis vuestro camino. Pintaremos la diana desde el centro hacia fuera:</p>\n<p style=\"text-align: justify;\">🔴 Color Rojo (Centro): \"Me ha costado un poco, necesito practicar más\".<br />🟠 Color Naranja (Mitad): \"¡Lo voy pillando! Ya me sale bastante bien\".<br />🟢 Color Verde (Borde exterior): \"¡Soy un experto! Puedo ayudar a otros\".</p>\n<p style=\"text-align: justify;\"><br />✅ Pasos para completar tu misión:<br />-Sé sincero: No pasa nada por poner un rojo si algo te ha costado. ¡Estamos aquí para aprender!<br />-Mira tu proceso: Piensa en cómo empezaste el primer día y cómo estás ahora.<br />-¡Dale color!: Que tu diana refleje todo tu trabajo.<br /></p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/Ficha de Ejercicio Diana de Autoevaluación Alumno Doodle Blanco y Negro.png\" title=\"Diana de evaluación\" width=\"983\" height=\"695\" alt=\"Diana de evaluación\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777836348808-oxb17lesh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777836348808-oxb17lesh</odePageId>
+      <odeBlockId>block-1777836870572-sci3w5r66</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777836348808-oxb17lesh</odePageId>
+          <odeBlockId>block-1777836870572-sci3w5r66</odeBlockId>
+          <odeIdeviceId>idevice-1777836870571-g44nm5ucl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>💡 Os dejo el enlace de los criterios de evaluación 👉 <a href="https://docs.google.com/document/d/1jf3DadNrcY6cL6D6FJ5KUhHAJ53zGFIAOnrEGiZZVzo/edit?tab=t.0#heading=h.v3kpl8zcktok" title="">PINCHA AQUÍ</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777836870571-g44nm5ucl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>💡 Os dejo el enlace de los criterios de evaluación 👉 <a href=\"https://docs.google.com/document/d/1jf3DadNrcY6cL6D6FJ5KUhHAJ53zGFIAOnrEGiZZVzo/edit?tab=t.0#heading=h.v3kpl8zcktok\" title=\"\">PINCHA AQUÍ</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777837071600-oduqwiuqi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Creditos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Creditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777837071600-oduqwiuqi</odePageId>
+      <odeBlockId>block-1777837074998-q6mz8i2b4</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777837071600-oduqwiuqi</odePageId>
+          <odeBlockId>block-1777837074998-q6mz8i2b4</odeBlockId>
+          <odeIdeviceId>idevice-1777837074996-inkqv61vg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li style="text-align: justify;"><strong>Autoría:</strong> Pilar del Río Poyato</li>
+<li style="text-align: justify;"><strong>Descripción: </strong>Este recurso educativo es una Situación de Aprendizaje diseñada para alumnos de 5º de Educación Primaria. El objetivo es investigar los comercios locales mediante el uso de herramientas digitales y técnicas de entrevista.</li>
+<li style="text-align: justify;"><strong>Licencia de uso: </strong>Este material se publica bajo la licencia Creative Commons Atribución (CC BY).<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777837074996-inkqv61vg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li style=\"text-align: justify;\"><strong>Autoría:</strong> Pilar del Río Poyato</li>\n<li style=\"text-align: justify;\"><strong>Descripción: </strong>Este recurso educativo es una Situación de Aprendizaje diseñada para alumnos de 5º de Educación Primaria. El objetivo es investigar los comercios locales mediante el uso de herramientas digitales y técnicas de entrevista.</li>\n<li style=\"text-align: justify;\"><strong>Licencia de uso: </strong>Este material se publica bajo la licencia Creative Commons Atribución (CC BY).<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
